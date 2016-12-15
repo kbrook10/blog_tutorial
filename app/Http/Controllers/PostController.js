@@ -1,6 +1,6 @@
 'use strict'
 
-const Post = use('/app/Model/Post')
+const Post = use('App/Model/Post')
 
 class PostController {
     * index (request, response) {

@@ -23,3 +23,8 @@ body {
 .header ul {
   float: right;
 }
+.post {
+  margin-top: 30px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #e8e8e8;
+}
